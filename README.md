@@ -22,6 +22,8 @@ No Tumor
 Pituitary
 Ensure the dataset is stored in the mri-images directory as per the folder structure defined in the project.
 
+Dataset is available in kaggle : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset  
+
 Installation and Setup
 Requirements
 Python 3.8+
@@ -45,6 +47,7 @@ Improve UI for better user experience.
 Contributors
 Manjunath Ravi Naik – Project Development and Model Training
 This README covers all necessary aspects of your project. Let me know if you'd like me to generate a requirements.txt file or any additional content!
+
 
 
 
